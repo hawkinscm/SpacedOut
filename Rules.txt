@@ -1,0 +1,598 @@
+ SSSSS  PPPPP    A    CCCCC  EEEEE  DDDD              OOO   U   U  TTTTT
+ S      P   P   A A   C      E      D   D            O   O  U   U    T 
+ SSSSS  PPPPP  AAAAA  C      EEEE   D   D            O   O  U   U    T
+     S  P      A   A  C      E      D   D            O   O  U   U    T
+ SSSSS  P      A   A  CCCCC  EEEEE  DDDD              OOO   UUUUU    T
+________________________________________________________________________ 
+ 
+-----------------------
+COMPUTER VERSION HELPS: 
+-----------------------
+Left-click the draw pile to clone.
+Left-click and drag to a play pile to play a card.
+Right-click and drag to a play pile to clone.
+
+
+                             --------------
+                            | INSTRUCTIONS |
+                             --------------
+
+     After reading the rules, refer to the section entitled "Questions &
+Answers" for further help in learning to play.
+	
+-------------------
+OBJECT OF THE GAME:
+-------------------
+     The object of the game is to play successfully the cards in your 
+hands - scoring as FEW POINTS as possible.  (This may or may not be done
+by being the first player to play his last card.)
+
+--------------
+THE CHALLENGE:
+--------------
+     The challenge of the game is to (1) make your opponents accumulate 
+additional cards and possible points by playing "attack" cards on them, 
+(2) protect yourself from attack through proper use of "defensive" or 
+"attack" cards, and (3) take advantage of opportunities to play 
+additional cards in "Clone" situations using steady concentration and 
+quick reflexes.
+
+--------------
+PLAYING CARDS:
+--------------
+     The game consists of a deck of 108 cards: 80 numbered cards in four 
+different colors, 22 "attack" cards, and 6 "defensive" cards.
+
+------------
+PREPERATION:
+------------
+     A designated dealer shuffles and deals 6 CARDS (one at a time face 
+down) to each player.  (Players may hold and look at their cards.)
+     The remaining cards are placed face down in the center of the 
+playing area.  This is the DRAW PILE.  When ready to play, the dealer 
+draws the TWO top cards from the draw pile and places them face up - one 
+on each side of the draw pile.  These are the PLAYING PILES.
+     (NOTE: If either of these two cards is a "BIG BANG" or "Wild Card", 
+it should be reshuffled back into the deck and replaced from the top of 
+the deck.)
+
+--------------
+ORDER OF PLAY:
+--------------
+     The player to the dealer's left plays first.  Subsequent players 
+are those sitting clockwise around the playing area.
+
+--------------
+PLAYING PILES:
+--------------
+     There are TWO PLAYING PILES, one on each side of the draw pile.  
+The first player of each hand plays on either pile he chooses, and that 
+pile immediately becomes the "LIVE PILE".  The other pile becomes the 
+"DEAD PILE".
+     A player may PLAY ON EITHER PILE during the game.  There are THREE 
+WAYS to play on the "LIVE PILE", whereas there are only TWO WAYS to play 
+on the "DEAD PILE".  (see THE PLAY.)
+     When a player does play on the "dead pile", it immediately becomes 
+the "live pile" and the other, the "dead pile".  (This change may occur 
+several times during a hand.)
+
+---------
+THE PLAY:
+---------
+     A player is able to play the cards from his hand on the "LIVE PILE" 
+by one of THREE WAYS:
+     1.  by matching the "COLOR" of the card that is face up on the 
+         "live pile", OR
+     2.  by matching the "DESIGN" of the card that is face up on the 
+         "live pile", OR
+     3.  by playing a "WILD CARD".
+     
+     EXAMPLE #1
+     If the card facing up on the "live pile" is a "RED-5", then a
+     player can play ANY card that is "RED", OR a "5" of any color,
+     OR a "Wild Card" on top of the "live pile."
+     
+     A player is able to play the cards from his hand on the "DEAD PILE" 
+by one of TWO WAYS:
+     1.  by matching the "DESIGN" of the card that is face up on the 
+         "dead pile" OR
+     2.  by playing a "WILD CARD".
+
+     EXAMPLE #2
+     If the card facing up on the "dead pile" is a "GREEN-9", THEN
+     A PLAYER CAN PLAY A "9" of any color, OR a "Wild Card" on top
+     of the "dead pile". He CANNOT simply play another green card,
+     UNLESS it is a "9".
+     
+----------------
+A PLAYER'S TURN:
+----------------
+     A player takes his turn either by "playing a card" OR "drawing a 
+card".  If he can play a card, his turn is ended when that card is 
+played.  If he is unable to play a card, OR CHOOSES NOT TO PLAY, he 
+draws a card, and his turn is ended.
+     If a player is UNDER ATTACK, he may be required to DRAW MORE THAN 
+ONE CARD to end his turn.
+    Although a player may play only one card on each turn, it is 
+possible for him to earn several EXTRA TURNS in a row by "Cloning" 
+and/or playing "Black Hole" cards.
+
+-------------
+NUMBER CARDS:
+-------------
+     For clarification purposes, a "Number Card" includes cards "1" 
+THROUGH "10".
+     Although "attack cards" and "defensive cards" also have numbers in 
+the upper left hand corners of the cards, they should not be confused 
+with "number cards".  The numbers on the attack and defensive cards are 
+for scoring ONLY, and NOT for matching during the play of the game.
+
+--------
+CLONING:
+--------
+     "CLONING" IS A VERY IMPORTANT PART OF THE GAME!  Using it 
+effectively gives the game its "FAST-ACTION" pace and enables a player 
+to OUTMANEUVER his opponents.
+     Whenever a player is holding a "NUMBER CARD" (1 - 10) in his hand 
+that is an EXACT DUPLICATE (same "color" and same "number") of another 
+"number" card that is face up on either the "live pile" OR the "dead 
+pile", then that card is playable as a "Clone".
+     A player may play a "Clone" at anytime, even OUT OF TURN, EXCEPT 
+when an attack, counterattack, or someone's extra turn is in progress.  
+To give everyone an equal chance, "Cloning" does not start until after 
+the first card of each hand has been played.
+     REMEMBER, "Clones" may be played on "numbered" cards ONLY!  (cards 
+"1" through "10").
+     When PLAYING A "CLONE", a player lays down his numbered card on top 
+of the duplicate numbered card and YELLS, "CLONE"!  Upon doing so, he 
+earns an EXTRA TURN.  As in normal play, he must then either play 
+another card, or draw a card to end his turn.  The play then continues 
+in its previous direction, with the person sitting next to the player 
+who cloned playing next.  Since a player may clone out of turn and thus 
+earn an extra turn for doing so, the cloning process will OFTEN CAUSE 
+OTHER PLAYERS TO LOSE THEIR TURNS.
+     A player may clone either the "live pile" or the "dead pile".  
+However, if two players each "Clone" different piles at the same time, 
+then the player who "Cloned" the "live pile" earns the extra turn, and 
+the other player must take his card back (often just temporarily, until 
+the other player's turn is completed).
+     When playing several cards in a row, as often happens when 
+"Cloning", a player should PLAY EACH CARD SEPARATELY (one at a time) to 
+give others an equal chance to play.
+     A player may lose his chance to "Clone", if another player takes 
+his turn before he can set his card down on the pile he desires to 
+"Clone".
+
+     EXAMPLE #3
+     Imagine five players. Player #1 plays a "BLUE-6".  Player #2
+     starts to play, but Player #4 beats him to it by playing 
+     another "BLUE-6" and yelling "Clone". Player #4 then plays
+     a "BLUE-10". Player #5 plays next.
+
+-------------
+ATTACK CARDS:
+-------------
+     There are SIX different KINDS of "attack" cards.  They include: 
+Asteroids, Shooting Star, Wild Shooting Star, Black Hole, Wild Black 
+Hole, and BIG BANG.  These cards are played at opportune times, causing 
+opponents to draw additional cards or lose their turns.
+     Attack cards are PLAYED THE SAME as other cards (e.g. MATCHING 
+COLOR OR DESIGN).
+
+----------------
+DEFENSIVE CARDS:
+----------------
+     The TWO KINDS of defensive cards are "Force Field" and "Super Force 
+Field".  Whenever one of these fields in played, whether under attack or 
+not, the DIRECTION OF PLAY IS REVERSED.
+
+-------------
+UNDER ATTACK:
+-------------
+     When under attack, a player must RESPOND in one of THREE WAYS:
+     1.  play an ATTACK card of the "SAME DESIGN" (any color) and pass 
+         the attack on to another player, OR
+     2.  play a "FORCE FIELD" (of the same color as the attack card) or 
+         a "Super Force Field" and pass the attack back to the player 
+         who attacked him, OR
+     3.  DRAW the appropriate number of cards to end the attack.
+
+     NOTE: see the specific type of attack for the specific rules.
+
+----------
+ASTEROIDS:
+----------
+     When an "Asteroids" card is played, then the NEXT PLAYER, in 
+direction of play, is required to DRAW TWO CARDS from the "draw pile" 
+for his turn, unless he can successfully defend himself.  There are TWO 
+WAYS a player can DEFEND himself against an attack by an "Asteroids" 
+card: (1) by playing another "ASTEROIDS" CARD, or (2) by playing a 
+"FORCE FIELD" card (of the same color) or "Super Force Field" card.
+     IF the defending player plays ANOTHER "ASTEROIDS" CARD, then not 
+only is the ATTACK PASSED ON to the next player in direction of play, 
+but also the NUMBER OF CARDS REQUIRED TO BE DRAWN IS ACCUMULATED.  That 
+player must then defend himself or draw FOUR cards from the "draw pile". 
+ (Since there are eight "Asteroids" cards in the deck, if enough 
+"Asteroids" cards are played consecutively, the attack can be built up 
+to a point, that an unlucky player at the end will be forced to draw as 
+many as 16 cards!)
+
+     EXAMPLE #4
+     Imagine five players. Player #1 plays a "RED-6". Player #2
+     plays a "RED-ASTEROIDS". Player #3 plays a "BLUE-ASTEROIDS".
+     Player #4 picks up four cards. Player #5 plays a "BLUE-7".
+
+     IF the defending player plays a "FORCE FIELD" card (after one or 
+more "asteroids" cards have been played), then the ATTACK (and direction 
+of play) is PASSED BACK to the player who had just played the PREVIOUS 
+CARD.  That player must then either defend himself (with another "Force 
+Field" of any color) or draw the appropriate number of cards from the 
+"draw pile".
+
+     EXAMPLE #5
+     Same five players. Player #1 plays a "BLUE-3". Player #2
+     plays a "BLUE-ASTEROIDS". Player #3 plays a "YELLOW-
+     ASTEROIDS". Player #4 plays a "GREEN-ASTEROIDS". Player #5
+     plays a "GREEN-FORCE FIELD". Player #4 plays a "RED-FORCE
+     FIELD". Player #5 plays a "BLUE-FORCE FIELD". Player #4 
+     picks up six cards. Player #3 plays next.
+
+---------------
+SHOOTING STARS:
+---------------
+     The rules for a "Shooting Star" card are the SAME as those for an 
+"Asteroids" card, EXCEPT that instead of attacking the next player in 
+direction of play, it "shoots over" that player (skips him) and ATTACKS 
+THE PLAYER TWO POSITIONS AWAY from the person who played the attack 
+card.
+     When a "Shooting Star" card is played, then the player two 
+positions away, in direction of play, is required to DRAW TWO CARDS from 
+the "draw pile" for his turn, unless he can successfully defend himself. 
+ There are TWO WAYS a player can DEFEND himself against an attack by a 
+"Shooting Star" card: (1) by playing another "SHOOTING STAR" CARD, or 
+(2) by playing a "FORCE FIELD" (of the same color) or "Super Force 
+Field" card.
+     IF the defending player plays ANOTHER "SHOOTING STAR" CARD, then 
+not only is the ATTACK PASSED ON to the player two positions away in 
+direction of play, but also the NUMBER OF CARDS REQUIRED TO BE DRAWN IS 
+ACCUMULATED.  That player must then defend himself or draw FOUR cards 
+from the draw pile.  (Since there are six "Shooting Star" cards in the 
+deck, if enough "Shooting Star" cards are played consecutively, the 
+attack can be built up to a point, than an unlucky player at the end 
+will be forced to draw as many as 12 cards!)
+
+     EXAMPLE #6
+     Imagine five players. Player #1 plays a "YELLOW-10".
+     Player #2 plays a "YELLOW-SHOOTING STAR". Player #4 picks
+     up two cards. Player #5 plays a "YELLOW-5".
+
+     IF the defending player plays a "FORCE FIELD" card, then the ATTACK 
+(and the direction of play) is PASSED BACK to the player who had just 
+played the previous card.  That player must then either defend himself 
+(with another "Force Field" of any color) or draw the appropriate number 
+of cards from the "draw pile".
+     A "SHOOTING STAR" MAY BE PLAYED ON TOP OF A "WILD SHOOTING STAR".
+     There is NO DIFFERENCE in playing a "Shooting Star" card and a 
+"Wild Shooting Star" card, EXCEPT that a "Wild Shooting Star" has all 
+FOUR COLORS and can be played on either the "live pile" or the "dead 
+pile" without regard to color.
+
+     EXAMPLE #7
+     Same five players. Player #1 plays a "GREEN-8". Player #2
+     plays a "GREEN-SHOOTING STAR". Player #4 plays a "WILD
+     SHOOTING STAR" and calls the color "BLUE". Player #1 plays
+     a "RED-SHOOTING STAR". Player #3 plays a "RED-FORCE FIELD".
+     Player #1 picks up six cards. Player #5 plays next.
+
+     (NOTE: If only TWO PEOPLE are playing, a "Shooting Star" card 
+attacks the opponent.)
+
+--------------
+DRAWING CARDS:
+--------------
+     When drawing more than one card (due to an attack), a player should 
+draw the cards ONE AT A TIME, so other players will know when he has 
+drawn the appropriate number of cards.  Players should wait until a 
+player had drawn his final card BEFORE resuming play.
+
+-----------------
+ENDING AN ATTACK:
+-----------------
+     AFTER a player has DRAWN the required number of CARDS due to an 
+attack, the attack is ended.  The next player, in direction of play, 
+continues as per regular rules.  The "live pile" remains live.
+
+------------
+BLACK HOLES:
+------------
+     A "Black Hole" SKIPS ALL OPPONENTS by passing over them.  
+Therefore, when a player plays a "Black Hole" card, all of his opponents 
+lose their turns, and it is HIS TURN AGAIN.  As in normal play, he must 
+then either PLAY another card, OR DRAW a card to end his turn.
+
+     EXAMPLE #8
+     Imagine five players. Player #1 plays a "RED-9". Player #2
+     plays a "RED-BLACK HOLE". Player #2 plays a "BLUE-BLACK
+     HOLE". Player #2 plays a "BLUE-7". Player #3 plays next.
+
+-------------
+FORCE FIELDS:
+-------------
+     A "Force Field" is a defensive card.  When it is played, it not 
+only REVERSES AN ATTACK, but also reverses the DIRECTION OF PLAY from 
+clockwise to counterclockwise (or vice versa).
+     "Force Fields" can reverse attacks from "Asteroids" and "Shooting 
+Stars" when the COLORS are the SAME.
+     It is NOT NECESSARY TO BE UNDER ATTACK in order to play a "Force 
+Field" card; it can also be played simply to reverse the direction of 
+play.
+     A "Force Field" can be played on another "Force Field" of any 
+color.  If an attack is reversed by a "Force Field", the attack CANNOT 
+BE CONTINUED BY ANOTHER "ATTACK" CARD, BUT it can be reversed again by 
+another "Force Field" (or "Super Force Field"), and so on.  (see SUPER 
+FORCE FIELD.)
+     A "FORCE FIELD" CAN BE PLAYED ON A "SUPER FORCE FIELD", EXCEPT in 
+the case of a "BIG BANG" attack.  (see BIG BANG.)
+
+     EXAMPLE #9
+     Imagine five players. Player #1 plays a "GREEN-4". Player
+     #2 plays a "GREEN-FORCE FIELD". Player #1 plays a "GREEN-
+     ASTEROIDS". Player #5 plays a "BLUE-ASTEROIDS". Player #4
+     plays a "BLUE-FORCE FIELD". Player #5 plays a "SUPER FORCE
+     FIELD" and calls the color "yellow". Player #4 plays a
+     "RED-FORCE FIELD". (He didn't match the color "yellow",
+     but matched the "design" instead!) Player #5 picks up four
+     cards. Player #1 plays next.
+
+---------
+BIG BANG:
+---------
+     This card is the most difficult card to play!  The ONLY TIME a "BIG 
+BANG" card can be played is when the COLORS of the TWO PILES (the "live 
+pile" and the "dead pile") MATCH the two colors on the "BIG BANG" card 
+to be played.
+     There are only two "BIG BANG" cards in a deck.  One is RED & BLUE 
+and the other is GREEN & YELLOW.
+     A "BIG BANG" CAN BE PLAYED OUT OF TURN. (Besides "cloning", this is 
+the only card in the deck that can be played out of turn!)  A "BIG BANG" 
+CANNOT BE PLAYED, however, WHEN the player is under attack, OR when any 
+other player is under attack, counterattack, or taking an extra turn 
+(e.g. after cloning or playing a "black hole").
+     When playing a "BIG BANG", the player YELLS "BIG BANG" at the same 
+time he lays down the card.  (The "BIG BANG" is ALWAYS PLAYED ON THE 
+"LIVE PILE", which retains its color!)
+     When a player plays a "BIG BANG", ALL the other players must DRAW 
+THREE CARDS EACH, in DIRECTION OF PLAY!!  After all have drawn, it is 
+the ATTACKER'S TURN AGAIN.  It is possible, however, for a player to 
+protect himself from attack by a "BIG BANG".  (see "SUPER FORCE 
+FIELDS".)
+
+     EXAMPLE #10
+     Imagine five players. On the "live pile" is a "RED-3". On
+     the "dead pile" is a "YELLOW-ASTEROIDS". Player #1 plays a
+     "GREEN-3". Player #2 plays a "GREEN & YELLOW - BIG BANG"
+     (and yells "BIG BANG"). Player #3 picks up three cards.
+     Player #4 picks up three cards. Player #5 picks up three
+     cards. Player #1 picks up three cards. Player #2 plays a 
+     "GREEN-6".
+
+     (NOTE: A "BIG BANG" CANNOT BE PLAYED ON TOP OF ANOTHER "BIG BANG".)
+
+-------------------
+SUPER FORCE FIELDS:
+-------------------
+     "Super Force Fields" are the most powerful cards.  They can REVERSE 
+ALL ATTACK CARDS, including other "Force Fields".  A "Super Force Field" 
+is the ONLY card that can defend against a "BIG BANG".
+     A "Super Force Field" is the one card in the deck that can ALWAYS 
+BE PLAYED on a player's turn, without exception!
+     If a player has a "Super Force Field" card in his hand at the time 
+that a "BIG BANG" card is played, then instead of picking up three cards 
+on his turn, he may play the "Super Force Field" card on top of the "BIG 
+BANG" card, which reverses the attack back to the player who played the 
+"BIG BANG" card, and that player must pick up three cards instead.
+     If, however, that player, or ANOTHER PLAYER, ALSO HAS A "SUPER 
+FORCE FIELD" card in his hand at the time the "BIG BANG" card is played, 
+then that player may play the "Super Force Field" card to protect 
+himself instead.  If this happens, then only the player playing the LAST 
+"Super Force Field" CARD would be PROTECTED.
+     After all the other players have drawn the required three cards, 
+then it is the TURN of the player who finally won out in the "BIG BANG" 
+conflict (the ONE player who did not have to draw the three cards).
+
+     EXAMPLE #11
+     Imagine five players. On the "live pile" is a "YELLOW-6".
+     On the "dead pile" is a "RED-10". Player #1 plays a "BLUE-
+     6" on the "live pile". Player #2 begins to play, but
+     player #4 beats him to it and plays a "RED & BLUE - BIG 
+     BANG" on the "live pile", yelling "BIG BANG". Player #5
+     picks up three cards. Player #1 picks up three cards. 
+     Player #2 plays a "SUPER FORCE FIELD" and calls the color
+     "yellow". Player #4 picks up three cards. Player #3 plays a
+     "SUPER FORCE FIELD" and calls the color "green". Player #2
+     picks up three cards. Player #3 plays next, then player 
+     #4.
+
+     A "FORCE FIELD" CANNOT BE PLAYED ON A "SUPER FORCE FIELD" IN A "BIG 
+BANG" CONFLICT.
+
+-----------
+WILD CARDS:
+-----------
+     There are SIX "WILD" CARDS: two "Wild Shooting Stars", two "Wild 
+Black Holes", and two "Super Force Fields".  These cards are "Wild" 
+because they have all FOUR COLORS on them and can be played on any of 
+the four colors.
+     These cards may be played on EITHER THE "LIVE PILE" OR THE "DEAD 
+PILE" on top of practically any card, on a player's turn.  (The 
+exception would be that when a player is under attack, he must follow 
+the rules for defense of that attack; for example, a player CANNOT play 
+a "Wild Shooting Star" in response to an "Asteroids" card.)
+     When playing a "Wild" card, the player then CHOOSES WHICH COLOR he 
+desires the pile to be.  Once the color is chosen, the "Wild" card is 
+treated as if it were that color.
+     FOR EXAMPLE: If a "Wild Black Hole" card is played and designated 
+as "green", then the cards that can be played on top of it are the same 
+cards that could be played on top of a green "Black Hole": any "green" 
+card, another "Black Hole", or a "Wild" card.
+
+----------
+LAST CARD:
+----------
+     While playing, each player should hold his cards in sight, so other 
+players can see how many cards he has left. When a player plays his LAST 
+CARD, he should YELL "SPACED OUT" to let everyone know that the hand is 
+over.
+
+------------
+END OF HAND:
+------------
+     A hand is over when one player has played the LAST CARD in his 
+hand.  Even if a player's last card is a "clone", "attack card", or 
+"defensive card" in response to an attack, the attack is VOID, and the 
+HAND IS OVER.
+
+--------
+SCORING:
+--------
+     The player who plays the last card in each hand receives, as his 
+score, the point values of each of the TOP CARDS FACING UP on the "live 
+pile" and the "dead pile" at the end of play.
+     (This adds strategy to the game; a player may choose not to play 
+his last card, even though it is playable, if the point values would be 
+too high.  If he chooses not to play, he simply draws a card to end his 
+turn.)
+     EACH of the OTHER PLAYERS receives, as his score, the total POINT 
+VALUES of the cards left in his HAND.
+
+-------------
+POINT VALUES:
+-------------
+     The point value of each card is the number in the UPPER LEFT HAND 
+CORNER of the card. (The point value of a number card is the same value 
+as the number itself.)
+
+-----------------
+WINNING THE GAME:
+-----------------
+     Add up each player's individual score at the end of each hand.  
+When a player's total score reaches or exceeds 500 POINTS, THE GAME IS 
+ENDED.  The player with the LOWEST SCORE is the WINNER.
+
+
+                         ---------------------
+                        | QUESTIONS & ANSWERS |
+                         ---------------------
+
+1.  Q. Must I play a card if able to do so?
+    A. No. You can always draw a card for your turn, if you choose to do 
+       so.
+
+2.  Q. Are there certain cards that I must play before playing a "Wild 
+       Card"?
+    A. No. You can choose to hold some cards or play them, depending on 
+       your strategy. You may also play your cards in any order you 
+       choose, as long as they are played according to the rules.
+
+3.  Q. I can't play, so I draw a card and find that the card I just drew 
+       is playable. Can I then immediately play that card?
+    A. No. Your turn is ended when you draw a card. The only exceptions 
+       would be if the card drawn is a "BIG BANG" or a number card 
+       playable as a "clone", since these cards may be played out of 
+       turn.
+
+4.  Q. Must I wait until I am unable to play on the "live pile" before 
+       playing on the "dead pile"?
+    A. No. If you hold cards which can be played on either pile, you may 
+       choose which card and which pile to play on, as long as you play 
+       according to the rules.
+
+5.  Q. Can "Asteroids" be "Cloned"?
+    A. No. You can only "Clone" cards 1,2,3,4,5,6,7,8,9 & 10. They must 
+       be the same number AND the same color.
+
+6.  Q. Can I "Clone" out of turn?
+    A. YES! You may "Clone" out of turn as long as no attack, 
+       counterattack, or a player's extra turn is in progress.
+
+7.  Q. What is an extra turn?
+    A. When a player plays a "Clone" or a "Black Hole", he gets another 
+       turn. No other player may play until that player takes his extra 
+       turn--either by playing another card or drawing a card.
+
+8.  Q. I yell "Clone", but another player takes his turn before I can 
+       get my card down on that playing pile. What happens?
+    A. You are out of luck and missed your opportunity to "Clone" that 
+       card. You must get you card down first. You should also yell 
+       "Clone" at the same time the card is played, NOT before.
+
+9.  Q. On what kind of card can I play a "GREEN-BLACK HOLE"?
+    A. Any other Black Hole, or any green card, as long as you are not 
+       under attack.
+
+10. Q. The player just before me drew two cards because he was attacked 
+       by a "BLUE-ASTEROIDS". Now what can I play?
+    A. Any blue card, OR any color "Asteroids", OR the same design of 
+       card that is on the "dead pile" OR a "Wild Card". After the 
+       player draws two cards, the attack is ended, and the 
+       "BLUE-ASTEROIDS" should be treated as any other blue card.
+
+11. Q. Can I play a "Shooting Star" on top of an "Asteroids"?
+    A. If you are under attack, NO! If you are NOT UNDER ATTACK, the 
+       YES, IF they are the same color.
+
+12. Q. Can I play a "BLUE-FORCE FIELD" on a "RED-SHOOTING STAR"?
+    A. No! Since the designs are different, then the colors must be the 
+       same.
+
+13. Q. Can I play a "RED-FORCE FIELD" on a "BLUE-FORCE FIELD"?
+    A. YES! Since the designs are the same, the colors may be different.
+
+14. Q. Can I play a "BIG BANG" when under attack?
+    A. No. If under attack, you must answer that attack according to the 
+       rules.
+
+15. Q. Can I play a "BIG BANG" out of turn?
+    A. YES, as long as no player is under attack, counterattack, or 
+       taking an extra turn.
+
+16. Q. When drawing three cards due to a "BIG BANG" attack, I drew a 
+       "SUPER FORCE FIELD. Can I then play that card to protect myself 
+       from the "BIG BANG" attack?
+    A. No. In order to be protected from a "BIG BANG" attack by a "SUPER 
+       FORCE FIELD", the card must be in your hand at the time the "BIG 
+       BANG" is played.
+
+17. Q. Is a "SUPER FORCE FIELD" a wild card?
+    A. Yes. Even though the word "wild" is not on the card, it is a 
+       "Wild Card" because it has all four colors on it.
+
+18. Q. If I am attacked by a "BIG BANG", but have a "SUPER FORCE FIELD" 
+       in my hand, when should I play it?
+    A. Wait until it is your turn to draw three cards. Then, instead of 
+       drawing the three cards, play the "SUPER FORCE FIELD".
+
+19. Q. If I play a "SUPER FORCE FIELD" instead of picking up three cards 
+       in a "BIG BANG" attack, whose turn is it next to pick up three 
+       cards?
+    A. The player who played the last card before you. If yours is the 
+       first "SUPER FORCE FIELD" to be played, then it will be the 
+       player who played the "BIG BANG". If yours is the second "SUPER 
+       FORCE FIELD" to be played, then it will be the player who played 
+       the first "SUPER FORCE FIELD".
+
+20. Q. Whose turn is it after a "BIG BANG" attack?
+    A. If no "SUPER FORCE FIELDS" have been played, then it is the 
+       player's turn who played the "BIG BANG". If one or more "SUPER 
+       FORCE FIELDS" have been played, then it is the player's turn who 
+       played the "SUPER FORCE FIELD" last. It is the player who finally 
+       won out in the "BIG BANG" attack; the one who did NOT pick up 
+       three cards. All other players should have picked up three cards.
+
+21. Q. What happens when the "draw pile" runs out of cards?
+    A. Except for the two top cards, which remain in place, the cards in 
+       the playing piles are reshuffled to form a new draw pile.
+
+
+
+
