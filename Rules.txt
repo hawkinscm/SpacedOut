@@ -8,9 +8,9 @@ ________________________________________________________________________
 -----------------------
 COMPUTER VERSION HELPS: 
 -----------------------
-Left-click the draw pile to clone.
-Left-click and drag to a play pile to play a card.
-Right-click and drag to a play pile to clone.
+To draw a card: Left-click the draw pile.
+To play a card: Left-click and drag to a play pile.
+To clone a card: Right-click and drag to a play pile.
 
 
                              --------------
